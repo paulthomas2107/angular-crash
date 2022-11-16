@@ -23,12 +23,6 @@
       "day": "June 22nd 1939",
       "reminder": true,
       "id": 4
-    },
-    {
-      "text": "Another added",
-      "day": "Today soon",
-      "reminder": true,
-      "id": 5
     }
   ]
 }
